@@ -170,3 +170,19 @@ header{
 #condition-3 .condition{
     color: #400329;
 }
+.faqs-section{
+    background-image: url("./images/image/about_bg -2.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.faqs-section h3{
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 2.4rem;
+    font-weight: 800;
+    margin:10% 5%;
+}
+.faqs-section .faqs-container{
+    margin: 5% 10% 2% 10%;
+}
